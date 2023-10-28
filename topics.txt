@@ -1,0 +1,98 @@
+in in the 8th part of 20 from all of github latter to master. 40% done 
+-
+-
+-
+-
+
+Introduction to Version Control:
+
+What is version control?
+Why use version control?
+Types of version control systems (e.g., centralized vs. distributed).
+Git Basics:
+
+Installing Git.
+Configuring Git settings (username, email, etc.).
+Initializing a Git repository.
+Git Fundamentals:
+
+Git workflow (add, commit, push, pull).
+Creating and managing branches.
+Merging and resolving conflicts.
+Undoing changes (reset, revert, and checkout).
+Gitignore files.
+Collaboration with Git:
+
+Cloning repositories.
+Forking and Pull Requests.
+Collaborating with others (collaborators, teams, organizations).
+GitHub Basics:
+
+Creating a GitHub account.
+Creating and managing repositories.
+Issues and bug tracking.
+Wikis and project boards.
+GitHub Workflow:
+
+Committing and pushing changes to GitHub.
+Pulling changes from a remote repository.
+Forking repositories.
+Creating and merging Pull Requests.
+Branching Strategies:
+
+Git branching models (e.g., GitFlow, GitHub Flow).
+Feature branches, release branches, and hotfix branches.
+Advanced Git Techniques:
+
+Interactive rebasing.
+Stashing changes.
+Submodules and subtrees.
+GitHub Actions:
+
+Automating workflows with GitHub Actions.
+Creating custom CI/CD pipelines.
+Building and testing code automatically.
+Git Security and Best Practices:
+
+Securing your Git and GitHub accounts.
+Using HTTPS vs. SSH for Git authentication.
+Code reviews and code quality.
+Git and GitHub Integration:
+
+Integrating Git with various IDEs and text editors.
+Integrating Git with third-party tools and services.
+Advanced GitHub Features:
+
+GitHub Pages for hosting documentation or websites.
+GitHub API and scripting.
+Git and GitHub Tips and Tricks:
+
+Aliases and shortcuts.
+Git hooks.
+Customizing Git/GitHub workflows.
+Troubleshooting and Debugging:
+
+Common Git and GitHub issues.
+Debugging Git problems.
+Handling merge conflicts.
+Git and GitHub Etiquette:
+
+Open source contribution guidelines.
+Proper commit messages and pull request descriptions.
+Backup and Recovery:
+
+Creating backups of repositories.
+Disaster recovery planning.
+Git and GitHub for Teams:
+
+Team collaboration strategies.
+Permissions and access control.
+Version Control with Git Alternatives:
+
+Learning about other version control systems (e.g., Mercurial, SVN).
+Git and GitHub in CI/CD Pipelines:
+
+Integrating Git and GitHub with CI/CD tools like Jenkins, Travis CI, or CircleCI.
+Git and GitHub for Documentation:
+
+Using Markdown and GitHub for documentation.
